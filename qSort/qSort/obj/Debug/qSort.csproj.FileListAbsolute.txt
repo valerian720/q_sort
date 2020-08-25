@@ -1,0 +1,12 @@
+C:\Users\v.a.vorotnikov\Desktop\code\qSort\qSort\bin\Debug\qSort.exe.config
+C:\Users\v.a.vorotnikov\Desktop\code\qSort\qSort\bin\Debug\qSort.exe
+C:\Users\v.a.vorotnikov\Desktop\code\qSort\qSort\bin\Debug\qSort.pdb
+C:\Users\v.a.vorotnikov\Desktop\code\qSort\qSort\obj\Debug\qSort.csproj.CoreCompileInputs.cache
+C:\Users\v.a.vorotnikov\Desktop\code\qSort\qSort\obj\Debug\qSort.exe
+C:\Users\v.a.vorotnikov\Desktop\code\qSort\qSort\obj\Debug\qSort.pdb
+C:\Users\п\Desktop\2018 программирование\qSort\qSort\bin\Debug\qSort.exe.config
+C:\Users\п\Desktop\2018 программирование\qSort\qSort\obj\Debug\qSort.exe
+C:\Users\п\Desktop\2018 программирование\qSort\qSort\obj\Debug\qSort.pdb
+C:\Users\п\Desktop\2018 программирование\qSort\qSort\bin\Debug\qSort.exe
+C:\Users\п\Desktop\2018 программирование\qSort\qSort\bin\Debug\qSort.pdb
+C:\Users\п\Desktop\2018 программирование\qSort\qSort\obj\Debug\qSort.csprojResolveAssemblyReference.cache
